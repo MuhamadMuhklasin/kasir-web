@@ -1,0 +1,9 @@
+{
+    "name": "notsecure/phpspreadsheet",
+    "description": "untuk generate laporan",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.6"
+    }
+}

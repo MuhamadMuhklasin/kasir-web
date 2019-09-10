@@ -1,0 +1,9 @@
+{
+    "name": "notsecure/mpdf",
+    "description": "untuk export data menjadi pdf",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "mpdf/mpdf": "^7.1"
+    }
+}
